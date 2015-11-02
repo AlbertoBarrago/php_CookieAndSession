@@ -1,5 +1,5 @@
 
-#Cookies And Section
+#Cookies And Session
 
 Simple code for study cookies and his session.
 
